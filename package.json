@@ -2,6 +2,7 @@
   "name": "ngconf-loopback",
   "version": "1.0.0",
   "main": "server/server.js",
+  "license": "MIT",
   "scripts": {
     "pretest": "jshint ."
   },
